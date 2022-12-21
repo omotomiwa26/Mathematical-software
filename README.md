@@ -1,1 +1,1 @@
-# Mathematcial-sofware
+# Mathematcial-software
